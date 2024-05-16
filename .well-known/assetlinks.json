@@ -1,14 +1,14 @@
 [
-{
-"relation": [
-"delegate_permission/common.handle_all_urls"
-],
-"target": {
-"namespace": "android_app",
-"package_name": "com.webee.hotel",
-"sha256_cert_fingerprints": [
-"C4:FD:8B:6E:B1:BE:FC:0C:0D:27:26:B5:03:A0:AC:93:A2:E1:C7:6C:F6:49:F2:07:B7:02:36:38:F8:AE:4A:C3"
-]
-}
-}
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.webee.hotel",
+      "sha256_cert_fingerprints": [
+        "C4:FD:8B:6E:B1:BE:FC:0C:0D:27:26:B5:03:A0:AC:93:A2:E1:C7:6C:F6:49:F2:07:B7:02:36:38:F8:AE:4A:C3"
+      ]
+    }
+  }
 ]
