@@ -3,6 +3,13 @@
     "apps": [],
     "details": [
       {
+        "appID": "G3ZXR45854.com.webee.hotel",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
         "appID": "Q26ZYS8AB6.com.wyndhamgrandkalamis.hotelapp",
         "paths": [
           "NOT /_/*",
